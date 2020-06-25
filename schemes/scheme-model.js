@@ -51,5 +51,6 @@ module.exports = {
   findById,
   findSteps,
   add,
+  update,
   remove,
 };
